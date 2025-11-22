@@ -1,5 +1,4 @@
 // Configuración
-const API_URL = "http://localhost:3000/predict";
 const VALID = ['image/jpeg','image/png'];
 const MAX_MB = 5;
 
