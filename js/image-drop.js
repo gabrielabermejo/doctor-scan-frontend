@@ -4,7 +4,7 @@ const MAX_MB = 5;
 
 // Estado
 let currentFile;
-const API_URL = "http://backend:8000/predict";
+const API_URL = "http://localhost:8000/predict";
 
 // DOM Elements
 const drop = document.getElementById('drop');
